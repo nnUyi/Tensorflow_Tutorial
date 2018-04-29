@@ -8,7 +8,7 @@
   - scipy
   - tqdm
 
-# Structure
+# File Structure
 ```text
 Tensorflow_Practice
 |———　Example0_Basics
@@ -23,12 +23,29 @@ Tensorflow_Practice
 |     　|———　408_saver.py  
 |     　|———　409_simple_regression_model.py  
 |———　Example1_FCN
+|       |———　FCN.py
+|       |———　main.py
+|       |———　ops.py
+|       |———　utils.py
 |———　Example2_CNN
+|       |———　CNN.py
+|       |———　main.py
+|       |———　ops.py
+|       |———　utils.py
 |———　Example3_AE
-|———　Example4_RNN
-|———　Example5_GAN
+|       |———　AutoEncoder.py
+|       |———　main.py
+|       |———　ops.py
+|       |———　utils.py
+|———　Example4_GAN
+|       |———　GAN.py
+|       |———　main.py
+|       |———　ops.py
+|       |———　utils.py
+|———　Example5_RNN
 |———　Example6_DQN
 ```
+
 # Usages
 
 # Contact
