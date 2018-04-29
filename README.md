@@ -11,16 +11,27 @@
 # Structure
 Tensorflow_Practice
 |----Example0_Basics
+
    |----400_constant.py
+   
    |----401_variable.py	
+   
    |----402_get_variable.py
+   
    |----403_placeholder.py
+   
    |----404_session.py
+   
    |----405_dataloader.py
+   
    |----406_optimizer.py
+   
    |----407_tensorboard.py
+   
    |----408_saver.py
+   
    |----409_simple_regression_model.py
+   
 |----Example1_FCN
 |----Example2_CNN
 |----Example3_AE
