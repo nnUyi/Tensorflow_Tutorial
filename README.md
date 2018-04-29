@@ -118,6 +118,42 @@ Tensorflow_Practice
 ```
 
 # Usages
+## Download Repo
+      
+      # clone repo to local
+      $ git clone https://github.com/nnUyi/Tensorflow_Practice.git
+      # enter root directory
+      $ cd Tensorflow_Practice
+      
+## Example0_Basics
+      
+      # In Example0_Basics, each file is individual so that you can run each .py as following
+      $ python [filename.py]
+      
+## Example1_FCN
+
+      # In Example1_FCN, type running instruction as following:
+      $ python main.py [configs according to the facts]
+      # Example shows below:
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+      
+## Example2_CNN
+
+      # In Example2_CNN, type running instruction as following:
+      $ python main.py [configs according to the facts]
+      # Example shows below:
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+
+## Example3_AE
+
+      # In Example1_AE, type running instruction as following:
+      $ python main.py [configs according to the facts]
+      # Example shows below:
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+
+## Example4_GAN
+## Example5_RNN
+## Example6_DQN
 
 # Contact
   Email: computerscienceyyz@163.com
