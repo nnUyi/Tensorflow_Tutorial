@@ -54,7 +54,7 @@
         $ sudo apt-get install python3-scipy
         
 ### tqdm install
-- python2.*
+  - python2.*
       
         $ sudo pip install tqdm
         
