@@ -114,7 +114,9 @@ Tensorflow_Practice
 |       |———　ops.py
 |       |———　utils.py
 |———　Example5_RNN
+|       |———　waiting for updating
 |———　Example6_DQN
+|       |———　waiting for updating
 ```
 
 # Usages
@@ -146,15 +148,27 @@ Tensorflow_Practice
 
 ## Example3_AE
 
-      # In Example1_AE, type running instruction as following:
+      # In Example3_AE, type running instruction as following:
       $ python main.py [configs according to the facts]
       # Example shows below:
       $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
 
 ## Example4_GAN
-## Example5_RNN
-## Example6_DQN
 
+      # In Example4_GAN, type running instruction as following:
+      $ python main.py [configs according to the facts]
+      # Example shows below:
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+
+
+## Example5_RNN
+
+  - waiting for updating
+      
+## Example6_DQN
+  
+  - waiting for updating
+  
 # Contact
   Email: computerscienceyyz@163.com
 
