@@ -1,5 +1,7 @@
 # Tensorflow_Practice
-  A tensorflow practice repo for tensorflow learning.(GAN:From Zero to One)
+  - A tensorflow practice repo for tensorflow learning.(GAN:From Zero to One) In this repo, baisics of tensorflow is provided in ***Example0_Basics***. Besides, classical models like FCN, CNN, AutoEncoder, GAN, RNN, DQN etc. are provided in this repo, you can download it , configure your experimental environments and launch it. Here I strongly recommend that you use **Linux Operational System**.
+
+  - Have a good trip in tensorflow!!!
 
 # Requirements
   - tensorflow
@@ -7,6 +9,9 @@
   - matplotlib
   - scipy
   - tqdm
+
+# Config
+## Linux
 
 # File Structure
 ```text
