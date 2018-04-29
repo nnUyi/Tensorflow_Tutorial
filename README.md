@@ -12,7 +12,63 @@
 
 # Config
 ## Linux
+### pip install
+  - pip & python2.*
+  
+        $ sudo apt-get install pip
+        # upgrade pip
+        $ sudo pip install --upgrade pip
+        
+  - pip3 & python3.*
+  
+        $ sudo apt-get install pip
+        # upgrade pip
+        $ sudo pip install --upgrade pip
+        
+### numpy install
+  - python2.*
+      
+        $ sudo apt-get install python-numpy
+        
+  - python3.*
+  
+        $ sudo apt-get install python3-numpy
+        
+### scipy install
+  - python2.*
+      
+        $ sudo apt-get install python-scipy
+        
+  - python3.*
+  
+        $ sudo apt-get install python3-scipy
+        
+### tqdm install
+- python2.*
+      
+        $ sudo pip install tqdm
+        
+  - python3.*
+  
+        $ sudo pip3 install tqdm
 
+### tensorflow install
+  - pip install 
+  
+        # cpu version: 
+        $ pip install tensorflow
+        # gpu version: 
+        $ pip install tensorflow-gpu
+        # upgrade:
+        $ pip install -U tensorflow
+
+
+  - conda install 
+  
+        $ anaconda search -t conda tensorflow
+        $ anaconda show [tensorflow version]
+        $ conda install --channel [the show list]
+        
 # File Structure
 ```text
 Tensorflow_Practice
