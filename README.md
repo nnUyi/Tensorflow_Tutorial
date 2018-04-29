@@ -33,7 +33,17 @@
   - python3.*
   
         $ sudo apt-get install python3-numpy
+
+### matplotlib install
+  - python2.*
+      
+        $ sudo apt-get install python-matplotlib
         
+  - python3.*
+  
+        $ sudo apt-get install python3-matplotlib
+
+
 ### scipy install
   - python2.*
       
