@@ -140,28 +140,32 @@ Tensorflow_Practice
       # In Example1_FCN, type running instruction as following:
       $ python main.py [configs according to the facts]
       # Example shows below:
-      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 
+        / --input_channel=1
       
 ## Example2_CNN
 
       # In Example2_CNN, type running instruction as following:
       $ python main.py [configs according to the facts]
       # Example shows below:
-      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 
+        / --input_channel=1
 
 ## Example3_AE
 
       # In Example3_AE, type running instruction as following:
       $ python main.py [configs according to the facts]
       # Example shows below:
-      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 
+        /--input_channel=1
 
 ## Example4_GAN
 
       # In Example4_GAN, type running instruction as following:
       $ python main.py [configs according to the facts]
       # Example shows below:
-      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28 --input_channel=1
+      $ python main.py --batchsize=64 --is_training=True --input_height=28 --input_width=28
+        / --input_channel=1
 
 
 ## Example5_RNN
