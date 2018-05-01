@@ -114,7 +114,10 @@ Tensorflow_Practice
 |       |———　ops.py
 |       |———　utils.py
 |———　Example5_RNN
-|       |———　waiting for updating
+|       |———　RNN.py
+|       |———　main.py
+|       |———　ops.py
+|       |———　utils.py
 |———　Example6_DQN
 |       |———　waiting for updating
 ```
@@ -163,7 +166,11 @@ Tensorflow_Practice
 
 ## Example5_RNN
 
-  - waiting for updating
+      # In Example5_RNNN, type running instruction as following:
+      $ python main.py [configs according to the facts]
+      # Example shows below:
+      $ python main.py --batchsize=64 --is_training=True --time_steps=28 --hidden_unit_size=128
+        / --hidden_layer_size=3
       
 ## Example6_DQN
   
@@ -171,4 +178,3 @@ Tensorflow_Practice
   
 # Contact
   Email: computerscienceyyz@163.com
-
