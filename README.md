@@ -131,6 +131,31 @@
     | ---- tf.nn.dynamic_rnn
     | ---- tf.nn.moments
 
+(4) tf.contrib.layers
+    | ---- tf.contrib.layers.conv2d
+    | ---- tf.contrib.layers.conv2d_in_plane
+    | ---- tf.contrib.layers.separable_conv2d
+    | ---- tf.contrib.layers.conv2d_transpose
+    | ---- tf.contrib.layers.conv3d_transpose
+    | ---- tf.contrib.layers.batch_norm
+    | ---- tf.contrib.layers.group_norm
+    | ---- tf.contrib.layers.instance_norm
+    | ---- tf.contrib.layers.unit_norm
+    | ---- tf.contrib.layers.avg_pool2d
+    | ---- tf.contrib.layers.avg_pool3d
+    | ---- tf.contrib.layers.max_pool2d
+    | ---- tf.contrib.layers.max_pool3d
+    | ---- tf.contrib.layers.flatten
+    | ---- tf.contrib.layers.fully_connected
+    | ---- tf.contrib.layers.dropout
+    | ---- tf.contrib.layers.maxout
+    | ---- tf.contrib.layers.softmax
+    | ---- tf.contrib.layers.one_hot_encoding
+    for weights decay
+    | ---- tf.contrib.layers.l1_regularizer
+    | ---- tf.contrib.layers.l2_regularizer
+    | ---- tf.contrib.layers.l1_l2_regularizer
+
 4.tf.losses
     for weights decay
     | ---- tf.losses.get_regularization_loss
