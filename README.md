@@ -86,6 +86,10 @@
     | ---- slim.flatten
     | ---- slim.fully_connected
     | ---- slim.linear
+    for weights regularization
+    | ---- slim.l1_regularizer
+    | ---- slim.l2_regularizer
+    | ---- slim.l1_l2_regularizer
     | ---- slim.arg_scope
     | ---- slim.repeat
     | ---- slim.stack
