@@ -140,6 +140,7 @@
     | ---- tf.contrib.layers.batch_norm
     | ---- tf.contrib.layers.group_norm
     | ---- tf.contrib.layers.instance_norm
+    | ---- tf.contrib.layers.layer_norm
     | ---- tf.contrib.layers.unit_norm
     | ---- tf.contrib.layers.avg_pool2d
     | ---- tf.contrib.layers.avg_pool3d
